@@ -1,3 +1,7 @@
+## robofriends
+This is a simple React app I made to learn the basics of React.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
